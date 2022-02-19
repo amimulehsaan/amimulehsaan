@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amimul Ehsan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amimulehsaan" alt="amimulehsaan" /></a> </p>
-
 - 🔭 I’m currently working on [guenstiger](https://www.guenstiger.de/)
 
 - 👨‍💻 All of my projects are available at [https://amimulehsaan.github.io/](https://amimulehsaan.github.io/)
+
+- 💬 Ask me about **node, react, .NET**
 
 - 📫 How to reach me **amimul.ehsaan@gmail.com**
 
