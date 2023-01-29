@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amimulehsaan.github.io/](https://amimulehsaan.github.io/)
 
-- 💬 Ask me about **node, react, .NET**
+- 💬 Ask me about **node, react, next, .NET, html/css, bootstrap**
 
 - 📫 How to reach me **amimul.ehsaan@gmail.com**
 
